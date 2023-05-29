@@ -1,3 +1,4 @@
 .history/
 __pycache__/basic.cpython-311.pyc
 .vscode/
+__pycache__/
