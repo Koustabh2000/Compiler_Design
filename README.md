@@ -38,9 +38,9 @@ Basic line wise interpreter made with Python
 - Floating number<br>
 
 **Suppoted Operators**
-arithmatic -> "+", "-", "*", "/", "^"
-relational -> "=", "==", "!=", "<", ">", "<=", ">="
-logical -> "AND", "OR", "NOT"
+<br>arithmatic -> "+", "-", "*", "/", "^"
+<br>relational -> "=", "==", "!=", "<", ">", "<=", ">="
+<br>logical -> "AND", "OR", "NOT"
 
 **sample arithmatic operations**
 - num + num
