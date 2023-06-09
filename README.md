@@ -57,8 +57,8 @@ Basic line wise interpreter made with Python
 VAR variable_name = value
 
 ##### Sample Conditional statement
-IF expr THEN expr
-&emsp;ELIF expr THEN expr
+IF expr THEN expr<br>
+&emsp;ELIF expr THEN expr<br>
 &emsp;&emsp;ELSE expr
 
 ##### Sample Looping example
